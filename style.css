@@ -1,0 +1,60 @@
+body {
+    background: rgb(70, 107, 241);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+    
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.432);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+div#content{
+    margin-top: 10px;
+}
+
+div#content input#numi{
+    margin-left: 40px;
+}
+
+div#content input#numf{
+    margin-left: 55px;
+}
+
+div#content input#nump{
+    margin-left: 30px;
+}
+
+div#content input#btn1{
+    padding: 5px;
+    margin-top: 25px;
+    margin-left: 135px;
+    font-size: 18pt;
+}
+
+div#content input#btn2{
+    padding: 5px;
+    margin-top: 25px;
+    margin-left: 50px;
+    font-size: 18pt;
+}
+
+div#content input.num{
+    margin-top: 30px;
+    margin-left: 30px;
+}
